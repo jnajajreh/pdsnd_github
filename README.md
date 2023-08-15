@@ -4,10 +4,10 @@
 15/8/2023
 
 ### Project Title
-bikeshare Project 
+bikeshare Project - this is for the git training project 
 
 ### Description
-This is the description of the project 
+This is the description of the project - this is for training purpose 
 ### Files used
 Bikeshare.py 
 
