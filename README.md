@@ -7,8 +7,7 @@
 bikeshare Project 
 
 ### Description
-Describe what your project is about and what it does
-
+This is the description of the project 
 ### Files used
 Bikeshare.py 
 
